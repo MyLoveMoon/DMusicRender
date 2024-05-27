@@ -1,1 +1,1 @@
-[ㅤㅤ](https://heroku.com/deploy?template=https://github.com/Leeyoomuzic/deluxmovie)
+[ㅤㅤ](https://heroku.com/deploy?template=https://github.com/Leeyoomuzic/deluxmusic)
