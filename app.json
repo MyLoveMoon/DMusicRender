@@ -15,22 +15,22 @@
     "env": {
         "API_ID": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "your_api_id_here",
+            "value": "26305268",
             "required": true
         },
         "API_HASH": {
             "description": "Get this value from https://my.telegram.org",
-            "value": "your_api_hash_here",
+            "value": "4e385c619185805f48427df36458d056",
             "required": true
         },
         "AUTO_LEAVING_ASSISTANT": {
             "description": "If you want your assistant to leave all chats automatically after some time.",
-            "value": "True",
+            "value": "False",
             "required": false
         },
         "BOT_TOKEN": {
             "description": "A Bot's token from Botfather",
-            "value": "your_bot_token_here",
+            "value": "7141074724:AAE6aP1AORrS8om5j1xdTYzExZlW9VkVz3w",
             "required": true
         },
         "MONGO_DB_URI": {
@@ -40,22 +40,22 @@
         },
         "MUSIC_BOT_NAME": {
             "description": "A name for your Music Bot. Please don't use ascii characters",
-            "value": "Arch Music Bot",
+            "value": "Delux Music Bot",
             "required": true
         },
         "OWNER_ID": {
             "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be separated with a space.",
-            "value": "your_owner_id_here",
+            "value": "7037583695",
             "required": true
         },
         "STRING_SESSION": {
             "description": "A Pyrogram String Session. One Assistant is Compulsory.",
-            "value": "your_string_session_here",
+            "value": "",
             "required": true
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku account's API key",
-            "value": "",
+            "value": "HRKU-4f6c61ef-c32c-4776-990c-3a12c5c44b82",
             "required": false
         },
         "HEROKU_APP_NAME": {
@@ -65,7 +65,7 @@
         },
         "LOG_GROUP_ID": {
             "description": "Your Log Group ID, add your bot and promote as an admin with full rights!. Use only Group. Please don't use Channel ID.",
-            "value": "your_log_group_id_here",
+            "value": "-1002075786437",
             "required": true
         },
         "UPSTREAM_REPO": {
