@@ -62,7 +62,7 @@ async def varsFunc(client, message):
     else:
         git = f"[Repo]({config.GITHUB_REPO})"
     if not config.START_IMG_URL:
-        start = "No"
+        start = "Yes"
     else:
         start = f"[Image]({config.START_IMG_URL})"
     if not config.SUPPORT_CHANNEL:
