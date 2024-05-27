@@ -68,6 +68,11 @@
             "value": "-1002075786437",
             "required": true
         },
+        "START_IMG_URL": {
+            "description": "Your bot start pic url",
+            "value": "https://graph.org/file/e4081fb64462cf6a2060c.jpg",
+            "required": true
+        },
         "UPSTREAM_REPO": {
             "description": "If you dont know this, Leave as it is",
             "value": "https://github.com/LeeyooMuzic/DeluxMusic",
