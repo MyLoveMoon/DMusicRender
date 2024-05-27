@@ -1,5 +1,5 @@
 {
-    "name": "Arch Music Bot",
+    "name": "Delux Music Bot",
     "description": "Telegram Group Calls streaming bot with some useful features, written in Python with Pyrogram and Py-Tgcalls. Supporting platforms like Youtube, Spotify, Resso, AppleMusic, Soundcloud and M3u8 Links.",
     "logo": "https://telegra.ph/file/3e72df6ef787df25f008e.jpg",
     "keywords": [
