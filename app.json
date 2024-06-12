@@ -40,7 +40,7 @@
         },
         "MUSIC_BOT_NAME": {
             "description": "A name for your Music Bot. Please don't use ascii characters",
-            "value": "Delux Music Bot",
+            "value": "ᴛᴇʟᴇɢꝛᴧᴍ ꭙ мυѕιᴄ",
             "required": true
         },
         "OWNER_ID": {
