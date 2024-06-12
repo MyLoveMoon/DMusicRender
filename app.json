@@ -40,7 +40,7 @@
         },
         "MUSIC_BOT_NAME": {
             "description": "A name for your Music Bot. Please don't use ascii characters",
-            "value": "ᴛᴇʟᴇɢꝛᴧᴍ ꭙ мυѕιᴄ",
+            "value": "Telegram Music",
             "required": true
         },
         "OWNER_ID": {
