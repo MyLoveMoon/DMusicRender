@@ -3,22 +3,22 @@ services:
     plan: free
     name: MusicBot
     env: python
-    buildCommand: pip install -r requirements.txt
-    startCommand: python main.py
+    buildCommand: pip3 install -r requirements.txt
+    startCommand: python3 main.py
     repo: https://github.com/MyLoveMoon/DMusicRender
     branch: main
     autoDeploy: false
     envVars:
       - key: BOT_TOKEN
-        sync: false
+        sync: true
       - key: API_ID
-        sync: false
+        sync: true
       - key: API_HASH
-        sync: false
+        sync: true
       - key: OWNER_ID
-        sync: false
+        sync: true
       - key: MONGO_DB_URI
-        sync: false
+        sync: true
       - key: LOG_GROUP_ID
         sync: false
       - key: START_IMG_URL
