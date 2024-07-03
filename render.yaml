@@ -30,5 +30,4 @@ services:
       - key: MUSIC_BOT_NAME
         sync: false
       - key: AUTO_LEAVING_ASSISTANT
-        value: False
         sync: false
